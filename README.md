@@ -25,7 +25,7 @@
 
 ## Inference
   
-| **content**\\**style**  | ![alt text](pictures/input_style/1.png)  | ![alt text](pictures/input_style/3.png)  |  ![alt text](pictures/input_style/4.png)  |  ![alt text](pictures/input_style/6.png)  |  ![alt text](pictures/input_style/9.png)  | 
+| **content**\\**style**  | ![alt text](pictures/input_style/1.jpg)  | ![alt text](pictures/input_style/3.jpg)  |  ![alt text](pictures/input_style/4.jpg)  |  ![alt text](pictures/input_style/6.jpg)  |  ![alt text](pictures/input_style/9.jpg)  | 
 | -------- | :---------: | :-------: |
 | 第一行     | 第一列     | 第二列     |
   
