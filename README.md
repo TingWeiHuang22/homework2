@@ -1,10 +1,10 @@
 # homework2
 
 **電腦視覺特效-第六組**  
-
+        hihi
 
 1.Training
-    hello
+
   
     
 2.Inference
@@ -16,7 +16,7 @@
 
 
 
-![](picture/train/process.png)  
+![]()  
 
   
   
