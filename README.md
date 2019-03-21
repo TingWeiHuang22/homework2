@@ -22,15 +22,14 @@
 ![alt text](pictures/training/training8.png)  
 ![alt text](pictures/training/training9.png)
 
-<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/>
 ## Inference
   
 **content**\\**style** 
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="50" height="50"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="50" height="50"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="50" height="50"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="50" height="50"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="50" height="50"/> 
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/4.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/6.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/9.jpg" width="100" height="100"/> 
   
     
 ## Compare with other method  
