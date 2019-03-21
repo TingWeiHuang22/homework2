@@ -174,6 +174,11 @@
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/6.png" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/9.png" width="100" height="100"/>
 <br/>
+  
+  
+* 在上述MUNIT的表格所inference的效果，可以發現style的效果有很貼切的改變了content的內容，且Inference的成果我認為是有改變原本圖片的style成另外一種風韻的圖片。而吾人認為效果最好的是forth row的各個inference結果，因為它會讓人真心認為這些圖片是由畫家畫出而非合成的結果。
+* 然而在FasterPhotoStyle的表格所inference的效果，可以發現style的效果雖然有影響原本圖片的content，然而卻會讓人覺得inference過頭的感覺，特別是某些inference的結果是整個照片糊掉而無法呈現原本圖片中的場景的內容。
+* 綜合上述所言，吾人認為MUNIT所Inference的結果，會比FasterPhotoStyle所Inference的結果還要好。雖然在FasterPhotoStyle的github中，透過FasterPhotoStyle所inference的結果也相當令人驚豔，但是吾人認為就目前測試結果整體性而言，MUNIT所呈現的Inference效果是比FasterPhotoStyle更robust的。
 
 
   
