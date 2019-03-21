@@ -29,7 +29,24 @@
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/4.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/9.jpg" width="100" height="100"/> 
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/9.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer1.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer2.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer3.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer4.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer5.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer6.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer7.jpg" width="100" height="100"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer8.jpg" width="100" height="100"/>
+<br/>
   
     
 ## Compare with other method  
