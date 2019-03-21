@@ -24,7 +24,7 @@
 
 ## Inference
   
-**content**\\**style**&amp;&amp;&amp;&amp;
+**content**\\**style**&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/4.jpg" width="100" height="100"/>
