@@ -23,6 +23,7 @@
 ![alt text](pictures/training/training9.png)
 
 ## Inference
+以下表格為使用MUNIT跑personal image的結果(first row為各個style的圖片，first column為各個content的圖片，而表格的其他圖片為inference的結果)
   
 **content**\\**style**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="100" height="100"/>
