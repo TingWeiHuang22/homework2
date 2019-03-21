@@ -24,7 +24,7 @@
 
 ![alt text](pictures/input_style/1.jpg | width="50")  
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
-<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png"/>
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/>
 ## Inference
   
 | **content**\\**style**  | ![alt text](pictures/input_style/1.jpg  | width=50)  | ![alt text](pictures/input_style/3.jpg =50x50)  |  ![alt text](pictures/input_style/4.jpg =50x50)  |  ![alt text](pictures/input_style/6.jpg =50x50)  |  ![alt text](pictures/input_style/9.jpg =50x50)  | 
