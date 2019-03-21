@@ -24,12 +24,13 @@
 
 ## Inference
   
-**content**\\**style**&nbsp;&nbsp;&nbsp;&nbsp;
+**content**\\**style**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/4.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/6.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/9.jpg" width="100" height="100"/>
+<br/>
 <br/>
 <img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer1.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
