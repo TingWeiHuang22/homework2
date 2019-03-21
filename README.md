@@ -4,14 +4,14 @@
 
 
 1.Training
-
-  ![alt text](picture/train/process.png)  
+    
+  ![](picture/train/process.png)  
   
     
 2.Inference
   
     
-3. Compare with other method  
+3.Compare with other method  
 
 
   
