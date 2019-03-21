@@ -102,76 +102,76 @@
 ## Compare with other method  
     
 **content**\\**style**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_style/9.png" width="100" height="100"/>
 <br/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer1.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/1/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer2.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/2/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer3.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/3/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer4.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer4.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/4/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer5.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer5.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/5/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer6.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer6.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/6/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer7.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer7.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/7/9.png" width="100" height="100"/>
 <br/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer8.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/input_content/summer8.png" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/3.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/6.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/9.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/1.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/3.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/4.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/6.png" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework2/blob/master/pictures/FastPhotoStyle/8/9.png" width="100" height="100"/>
 <br/>
 
 
