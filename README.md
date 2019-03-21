@@ -5,7 +5,6 @@
 
 1.Training
     hello
-  ![](picture/train/process.png)  
   
     
 2.Inference
@@ -13,6 +12,11 @@
     
 3.Compare with other method  
 
+
+
+
+
+![](picture/train/process.png)  
 
   
   
