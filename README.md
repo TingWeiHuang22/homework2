@@ -22,7 +22,7 @@
 ![alt text](pictures/training/training8.png)  
 ![alt text](pictures/training/training9.png)
 
-![alt text](pictures/input_style/1.jpg | width=50)  
+![alt text](pictures/input_style/1.jpg | width="50")  
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 ## Inference
