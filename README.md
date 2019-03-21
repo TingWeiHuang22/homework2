@@ -14,6 +14,13 @@
   
 * 以下training過程中，各個iterations(分別為1萬 10萬 20萬 30萬 40萬 50萬 57萬)在A to B(summer to winter) 結果照片顯示。每張照片的第一列為圖片原本的content，而在第二列至第五列分別為原本圖片換上有winter style的結果圖，而由以下圖片可以得知，training iterations的多寡，在某些圖片上面並不能證明iterations越多，style transfer效果會越好。
   
+![alt text](pictures/training/training3.png)  
+![alt text](pictures/training/training4.png)  
+![alt text](pictures/training/training5.png)  
+![alt text](pictures/training/training6.png)  
+![alt text](pictures/training/training7.png)  
+![alt text](pictures/training/training8.png)  
+![alt text](pictures/training/training9.png)
 
 
 ## Inference
